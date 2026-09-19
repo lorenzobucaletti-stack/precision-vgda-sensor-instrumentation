@@ -42,7 +42,7 @@ $$V_{\text{out}} = (V_{\text{IN2}} - V_{\text{IN1}}) \cdot \frac{R_4}{R_3} \cdot
   - $R_G = 5\text{ k}\Omega$ ($A_d = 10$): **$86.03\text{ dB}$** at $20\text{ kHz}$
   - $R_G = 25\text{ k}\Omega$ ($A_d = 50$): **$86.18\text{ dB}$** at $20\text{ kHz}$
   - $R_G = 50\text{ k}\Omega$ ($A_d = 100$): **$85.84\text{ dB}$** at $20\text{ kHz}$
-- **Time-Domain Verification:** Transient simulation with $V_{\text{in,diff}} = 140\text{ mV}_{\text{peak}}$ at $10\text{ kHz}$ confirms clean linear amplification to $7.0\text{ V}_{\text{peak}}$ at $R_G = 25\text{ k}\Omega$ ($A_d = 50$) with zero phase inversion.
+- **Time-Domain Verification:** Transient simulation with Vin,diff = 140 mVpeak at 10 kHz confirms clean linear amplification to 7.0 Vpeak at RG = 25 kΩ (Ad = 50) with zero phase inversion.
 
 ---
 
